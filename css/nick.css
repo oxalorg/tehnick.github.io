@@ -1,0 +1,41 @@
+* {
+    color: #e5e5e5;
+}
+
+#main {
+    /* max-width: 767px; */
+    padding-top: 10%;
+}
+
+p {
+    text-shadow: 1px 1px #000;
+}
+
+#icons > ul {
+    padding: 10px;
+}
+
+html {
+  background: url(/img/eminem.png) no-repeat center center fixed;
+      background-position: calc(60% - 200px) 50%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #000;
+}
+
+#bg {
+  /* Preserve aspet ratio */
+  max-width: 100%;
+  max-height: 100%;
+}
+
+
+#fgt {
+    padding-bottom: 20px;
+}
+
+body {
+}
+
